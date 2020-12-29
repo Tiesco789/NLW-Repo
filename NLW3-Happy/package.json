@@ -1,0 +1,11 @@
+{
+  "name": "next-level-week-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Franccesco Antonio <franccesco_@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/express": "^4.17.8"
+  }
+}
