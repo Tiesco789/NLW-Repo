@@ -18,7 +18,7 @@
 
 O **Move.it** é inspirado na técnica de **pomodoro** que consiste em ter ciclos de estudos e trabalhos, exemplo: você trabalha 25 minutos e descansa 5 minutos.
 
-Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de trabalho focado e 5 minutos para praticar algum exercício, para cada tarefa realizada, o usuário irá ganhar alguma experiência (xp) como recompensa, e conforme as tarefas vão sendoc completadas, o usuário vai ganhando xp e subindo de nível.
+Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de trabalho focado e 5 minutos para praticar algum exercício, para cada tarefa realizada, o usuário irá ganhar alguma experiência (xp) como recompensa, e conforme as tarefas vão sendo completadas, o usuário vai ganhando xp e subindo de nível.
 
 ### [**Layout no figma**](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate)
 
