@@ -62,16 +62,16 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
 <br>
 
 ## **1º dia:** Rumo ao Próximo nível
-  - Visualição do projeto
-  - Fluxo de uma API
-  - O que é React
-  - Por que usar TypeScript
-  - Componentes, Propriedades, Estado
-  - Configuração de fonte externa
-  - Estilos globais
-  - Variaveis CSS
-  - Acessibilidade
-  - Criamos nosso primeiro componente
+  - [x] Visualição do projeto
+  - [x] Fluxo de uma API
+  - [x] O que é React
+  - [x] Por que usar TypeScript
+  - [x] Componentes, Propriedades, Estado
+  - [x] Configuração de fonte externa
+  - [x] Estilos globais
+  - [x] Variaveis CSS
+  - [x] Acessibilidade
+  - [x] Criamos nosso primeiro componente
 
 <br>
 
@@ -84,3 +84,23 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
 <br>
 
 ## **2º dia:** Desvendando o Next.js
+ - [x] Conhecendo o Next.Js
+    - [x] SPA, SSR e SSG
+    - [x] Comparação (create-react-app, Gatsby, Next.js)
+  - [x] Migrar o projeto para Next.js
+  - [x] Componente: Perfil
+  - [x] Componente: CompletedChallages
+  - [x] Componente: Countdown
+  - [x] Criando Hook de Countdown
+  - [x] Recap do que foi aprendido
+  - [x] Antecipação da aula 03
+  - [x] Código do dia
+  - [x] Bora para comunidade
+  
+  <br>
+  
+  `#jornadainfinita`
+  
+  <br>
+  
+  ---
