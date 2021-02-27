@@ -95,7 +95,6 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
   - [x] Recap do que foi aprendido
   - [x] Antecipação da aula 03
   - [x] Código do dia
-  - [x] Bora para comunidade
   
   <br>
   
@@ -104,3 +103,24 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
   <br>
   
   ---
+  
+  <br>
+  
+##  **3º dia:** Contexto e componentes
+  - [x] Finalizar Countdown
+  - [x] Componente: ChallangeBox
+  - [x] Contextos no React
+  - [x] Criando contexto de desafios
+  - [x] Recap do que foi aprendido
+  - [x] Antecipar aula 04
+  - [x] Código para o desafio
+  
+  <br>
+  
+  `#focopraticagrupo`
+  
+  <br>
+  
+  ---
+  
+  <br>
