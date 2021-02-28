@@ -143,4 +143,23 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
   
   <br>
   
+##  **5º dia:** Próximo nível com React
+  - [x] Oportunidade
+    - [x] Você já provou nosso método (grupo, foco e prática)
+    - [x] Transformar esses elementos em metodologias é nosso papel
+  - [x] Storage via cookies
+  - [x] Modal de level up
+  - [x] Deploy da aplicação
+  - [x] Como andar a milha extra (Desafios)
+  - [x] Código para desafio
+  - [x] Foi uma semana intensa
   
+  <br>
+  
+  `#missioncomplete`
+  
+  <br>
+  
+  ---
+  
+  <br>
