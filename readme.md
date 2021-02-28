@@ -124,3 +124,23 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
   ---
   
   <br>
+  
+  ##  **4º dia:** Melhorando a usabilidade da aplicação
+  - [x] Estrutura de leveling
+  - [x] Notificações Web
+  - [x] Tocando áudio no desafio
+  - [x] Antecipação Aula 05
+  - [x] Antecipação Ignite
+  - [x] Código para o desafio
+
+  <br>
+  
+  `#neverstoplearning`
+  
+  <br>
+  
+  ---
+  
+  <br>
+  
+  
