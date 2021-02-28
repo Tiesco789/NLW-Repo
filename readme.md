@@ -35,24 +35,18 @@ Nesse projeto faremos algo parecido, vamos definir um tempo de 25 minutos de tra
       git clone https://github.com/Tiesco789/NLW-Repo.git
       ```
 
-  2. Acesse a repositorio clonado
-
-  3. Rode o comando na raiz do projeto para instalar as dependências
-      ```yarn
+  2. Rode o comando na raiz do projeto `moveit-next` para instalar as dependências
+      ```bash
       yarn
-      ```
-      ou
-      ```npm
+      # ou
       npm install
       ```
 
-  4. Rodando o Pojeto no navegador
-      ```yarn
-      yarn start
-      ```
-      ou
-      ```npm
-      npm run start
+  3. Rodando o Pojeto no navegador
+      ```bash
+      yarn dev
+      # ou
+      npm run dev
       ```
 
 <br>
